@@ -8,4 +8,4 @@ Since 2017, I collected data from the HITS Daily Double Magazine on this Google 
 
 This project utilizes various Python packages, such as gspread to connect Python with Google Sheets and Genius's API which hosts lyrics. 
 
-The following Notebook collects songs from the Google Sheets above and looks for each song's respective lyrics. 
+The following Notebook collects songs from the Google Sheets above and looks for each song's respective lyrics. Subsequentially uploaded notebooks will include analysis on the lyrics using Natural Language Toolkit Analysis.
